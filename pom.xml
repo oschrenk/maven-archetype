@@ -4,6 +4,6 @@
 
 	<groupId>com.oschrenk.maven</groupId>
 	<artifactId>default-archetype</artifactId>
-	<version>1.0</version>
+	<version>1.0.1</version>
 	<packaging>jar</packaging>
 </project>
