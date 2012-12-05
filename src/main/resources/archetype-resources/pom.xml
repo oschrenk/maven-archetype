@@ -41,7 +41,7 @@
 	</scm>
 
 	<properties>
-		<version.logback>1.0.7</version.logback>
+		<version.logback>1.0.8</version.logback>
 		<version.slf4j>1.7.2</version.slf4j>
 		<version.junit>4.10</version.junit>
 		<version.guava>13.0.1</version.guava>
