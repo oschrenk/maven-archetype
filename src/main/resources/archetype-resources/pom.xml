@@ -44,7 +44,7 @@
 		<version.logback>1.0.9</version.logback>
 		<version.slf4j>1.7.2</version.slf4j>
 		<version.junit>4.10</version.junit>
-		<version.guava>14.0-rc1</version.guava>
+		<version.guava>14.0</version.guava>
 		<version.gson>2.2.2</version.gson>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
