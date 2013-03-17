@@ -29,7 +29,7 @@
 	</scm>
 
 	<properties>
-		<version.logback>1.0.9</version.logback>
+		<version.logback>1.0.10</version.logback>
 		<version.slf4j>1.7.3</version.slf4j>
 		<version.junit>4.11</version.junit>
 		<version.guava>14.0</version.guava>
