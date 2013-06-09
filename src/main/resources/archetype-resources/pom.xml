@@ -33,7 +33,7 @@
 		<version.slf4j>1.7.5</version.slf4j>
 		<version.junit>4.11</version.junit>
 		<version.guava>14.0.1</version.guava>
-		<version.gson>2.2.2</version.gson>
+		<version.gson>2.2.4</version.gson>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
