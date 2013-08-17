@@ -31,6 +31,7 @@
 	<properties>
 		<version.logback>1.0.13</version.logback>
 		<version.slf4j>1.7.5</version.slf4j>
+		<version.jodatime>2.2</version.jodatime>
 		<version.junit>4.11</version.junit>
 		<version.guava>14.0.1</version.guava>
 		<version.gson>2.2.4</version.gson>
@@ -117,6 +118,14 @@
 			<artifactId>guava</artifactId>
 			<version>${version.guava}</version>
 		</dependency>
+
+		<dependency>
+			<groupId>joda-time</groupId>
+			<artifactId>joda-time</artifactId>
+			<version>${version.jodatime}</version>
+		</dependency>
+
+		<!-- IO -->
 
 		<dependency>
 			<groupId>com.google.code.gson</groupId>
