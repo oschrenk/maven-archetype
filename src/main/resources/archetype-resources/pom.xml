@@ -42,7 +42,7 @@
 	</properties>
 
 	<prerequisites>
-		<maven>2.2.1</maven>
+		<maven>3.0.5</maven>
 	</prerequisites>
 
 	<build>
